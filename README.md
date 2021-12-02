@@ -18,7 +18,7 @@ This is an app that was built using the MERN stack with a React front end, Mongo
 ## Link
 Access app directly from here 
 (https://pure-fjord-98174.herokuapp.com/)
-  * ![demo_still](assets/sc.png)
+  * ![demo_still](/assets/sc.png)
 
 
 ## Installation
